@@ -1,6 +1,3 @@
-
-
-
  Public class Hello{
 
    Public Static void main(string[] args){
